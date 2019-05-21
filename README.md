@@ -37,3 +37,6 @@ Happy tabling!
 ### Stretch Goals
 
 * Add a row/column with an image for each event. Store the image _locally_, preferably in a subdirectory of your project.
+* Make a separate page for each table. Be sure to give the user a link from each page to the other, with clear link text so they know where they're going for the best user experience.
+* Add table headings for each column or row (depending on the layout!). Look up the `<th>` tag!
+* Change the content of your second table to add a "brightest" timeline version of the same events. Finally, a story that doesn't use tragedy as a narrative crutch!

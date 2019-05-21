@@ -40,3 +40,5 @@ Happy tabling!
 * Make a separate page for each table. Be sure to give the user a link from each page to the other, with clear link text so they know where they're going for the best user experience.
 * Add table headings for each column or row (depending on the layout!). Look up the `<th>` tag!
 * Change the content of your second table to add a "brightest" timeline version of the same events. Finally, a story that doesn't use tragedy as a narrative crutch!
+* Have every image be the same width or height (whichever you think looks better). If you make them the same width _and_ height, you will likely change their aspect ratio and get some squishing or stretching.
+* Make the image or title or some other field a link to another file. It could be an online resource about that event, or extra content created locally about that event.

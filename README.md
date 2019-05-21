@@ -36,4 +36,4 @@ Happy tabling!
 
 ### Stretch Goals
 
-* Coming soon!
+* Add a row/column with an image for each event. Store the image _locally_, preferably in a subdirectory of your projecthttps://github.com/abbreviatedman?tab=repositories.

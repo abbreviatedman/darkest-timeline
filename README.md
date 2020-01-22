@@ -2,7 +2,20 @@
 
 ### Introduction
 
-In this project, we'll create a Darkest Timeline (https://en.wikipedia.org/wiki/Remedial_Chaos_Theory). Using tables!
+In this project, we'll create a Darkest Timeline (https://en.wikipedia.org/wiki/Remedial_Chaos_Theory). Using tables!y
+
+Tables aren't something we'll be using a _ton_, because it's not 1998, but they're a simpler version of a lot of things we'll be doing a _lot of_, so they're a fantastic way to ramp up to that.
+
+
+### Setup
+
+We'll be starting this `HTML` file from scratch again, so:
+
+* Make a NEW repo on GH, with a README initialized.
+* Create an `index.html` file.
+* Add `html`, `head`, and `body` tags.
+* Put the content outlined below in the `body`!
+
 
 ### Content
 

@@ -42,9 +42,9 @@ They should have the same timeline, but one should present it vertically, and on
 
 Here is an example of each type of timeline, although you do NOT have to follow the style or content whatsoever:
 
-A vertical example: ![vertical table example](https://fptd.kbm1.netdna-cdn.com/wp-content/uploads/2014/04/5-Years-Film-Timeline-PPT-Diagrams-1.jpg)
+A vertical example: ![vertical table example](./assets/vertical-timeline.jpg)
 
-A horizontal example: ![horizontal table example](https://venngage-wordpress.s3.amazonaws.com/uploads/2017/09/timeline-template-6-1.png)
+A horizontal example: ![horizontal table example](./assets/horizontal-timeline.jpg)
 
 Happy tabling!
 
